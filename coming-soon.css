@@ -1,0 +1,35 @@
+body {
+    background: #f4f4f4;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 15%;
+    color: #333;
+  }
+  
+  .container {
+    background: white;
+    padding: 2em;
+    border-radius: 12px;
+    width: 90%;
+    max-width: 400px;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  .notify-form input {
+    padding: 10px;
+    width: 70%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .notify-form button {
+    padding: 10px;
+    border: none;
+    background-color: #0c2340;
+    color: white;
+    border-radius: 4px;
+    margin-left: 8px;
+    cursor: pointer;
+  }
+  
